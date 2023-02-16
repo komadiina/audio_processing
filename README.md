@@ -117,7 +117,7 @@ Using a sinusoidal wave at 80Hz and 220Hz frequencies, I've been able to apply s
 
 </center>
 
-### Sine wave, *attenuated with a 0.3 gain factor *
+### Sine wave, *attenuated with a 0.3 gain factor*
 <center>
 
 ![attenuated_sine_wave](./docs/sine_attenuated.jpg)
